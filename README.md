@@ -2,4 +2,4 @@
 
 ## 🚀 Project Deliverables
 * **[Live Interactive Dashboard]** (https://datastudio.google.com/s/k-CqfLKMdjo)
-* **[Executive Presentation PDF]** (We will add this link in a second)# Data-Analyst-Capstone-Project
+* **[Executive Presentation PDF]** (https://github.com/shreyaspadmashali05-alt/Data-Analyst-Capstone-Project/blob/main/Data_Aanlyst_Capstone_Project_Report.pdf)
